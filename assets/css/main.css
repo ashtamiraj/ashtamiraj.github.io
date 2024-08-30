@@ -3957,8 +3957,8 @@ input, select, textarea {
 		color: #909498;
 		cursor: default;
 		position: relative;
-		margin: 0 auto;
-		width: calc(100% - 4rem);
+		margin: 0 0;
+		width: calc(55% - 4rem);
 		max-width: 72rem;
 		z-index: 2;
 	}
